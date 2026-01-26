@@ -2,4 +2,4 @@
 
 These notes were written when I was taking the module COMM327 Data Science and Visualization at the University of Liverpool.
 
-The rest of the notes are still awaiting organization and publication...
+非常详细的 Python 数据可视化中文笔记。希望对大家学习有帮助;>。
